@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tyleek-Jones
+- 👀 I’m interested in I want to be a Software/Hardware Engineer for a game development company one day
+- 🌱 I’m currently learning Java, Python, C++, and MYSQL
+- 💞️ I’m looking to collaborate on some gaming projects and some small web apps
+- 📫 How to reach me just shoot me a message on Instagram @LeekyJones
