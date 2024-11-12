@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyleek-Jones
-- 👀 I’m interested in I want to be a Software/Hardware Engineer for a game development company one day
-- 🌱 I’m currently learning Java, Python, C++, and MYSQL
-- 💞️ I’m looking to collaborate on some gaming projects and some small web apps
+- 👀 I'm Interested in DevOps Engineering and Game Programming
+- 🌱 I’m currently learning Python, C#, and DevOps Tools like Docker, Jenkins, Azure, and AWS 
+- 💞️ I’m looking to collaborate on some gaming projects and some Github action Worksflows and medium-large scale open source.
 - 📫 How to reach me just shoot me a message on Instagram @LeekyJones
